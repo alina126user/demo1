@@ -3,4 +3,9 @@ let user = 'John',
 age = 25, 
 message = 'Hello!';
 
-alert(message);
+let admin;
+let name = 'John';
+admin = 'John'
+
+alert(admin);
+
